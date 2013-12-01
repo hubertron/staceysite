@@ -1,0 +1,49 @@
+body
+{
+background-image:url('brickwall.png');
+background-color:#cccccc;
+margin:50px 0px; padding:0px;
+text-align:center;
+font-family: sans-serif;
+font-size: 14px;
+}
+
+h1 {
+	font-family: 'Belleza', sans-serif;
+	font-size: 50px;
+	margin-bottom: 5px;
+}
+
+h2 {
+	font-family: 'Belleza', sans-serif;
+	font-size: 24px;
+	margin-top: 5px;
+	margin-bottom: 50px;
+
+}
+
+h3 {
+	font-family: 'Belleza', sans-serif;
+	font-size: 20px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	text-decoration: underline;
+}
+
+ul { 
+list-style: none;
+
+}
+
+	
+#Content {
+	width:400px;
+	margin:0px auto;
+	text-align:left;
+	padding:15px;
+	background-color: #fff;
+	  -moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+	
+	}
