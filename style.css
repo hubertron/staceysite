@@ -31,16 +31,18 @@ h3 {
 }
 
 ul { 
-list-style: none;
+	list-style: none;
 
 }
 
 li {
-	margin-bottom: 6px;
+	margin-bottom: 12px;
 }
 
 p {
 	margin-bottom: 10px;
+	color: #777;
+	line-height: 18px;
 }
 	
 
@@ -58,7 +60,7 @@ a:hover {
 
 
 #Content {
-	width:400px;
+	width:440px;
 	margin:0px auto;
 	text-align:left;
 	padding:15px;
