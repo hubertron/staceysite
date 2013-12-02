@@ -35,7 +35,28 @@ list-style: none;
 
 }
 
+li {
+	margin-bottom: 6px;
+}
+
+p {
+	margin-bottom: 10px;
+}
 	
+
+a, a:visited {
+	color: #777;
+	text-decoration: none;
+
+}
+
+
+
+a:hover {
+	text-decoration: underline;
+}
+
+
 #Content {
 	width:400px;
 	margin:0px auto;
